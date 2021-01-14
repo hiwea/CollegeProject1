@@ -1,0 +1,6 @@
+C:\Users\Hiwea\Documents\Visual Studio 2012\Projects\CollegeProjectFirst\CollegeProjectFirst\bin\Debug\CollegeProjectFirst.exe.config
+C:\Users\Hiwea\Documents\Visual Studio 2012\Projects\CollegeProjectFirst\CollegeProjectFirst\bin\Debug\CollegeProjectFirst.exe
+C:\Users\Hiwea\Documents\Visual Studio 2012\Projects\CollegeProjectFirst\CollegeProjectFirst\bin\Debug\CollegeProjectFirst.pdb
+C:\Users\Hiwea\Documents\Visual Studio 2012\Projects\CollegeProjectFirst\CollegeProjectFirst\obj\Debug\CollegeProjectFirst.csprojResolveAssemblyReference.cache
+C:\Users\Hiwea\Documents\Visual Studio 2012\Projects\CollegeProjectFirst\CollegeProjectFirst\obj\Debug\CollegeProjectFirst.exe
+C:\Users\Hiwea\Documents\Visual Studio 2012\Projects\CollegeProjectFirst\CollegeProjectFirst\obj\Debug\CollegeProjectFirst.pdb
